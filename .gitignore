@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Uploaded datasets
+uploads/*
+!uploads/.gitkeep
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
